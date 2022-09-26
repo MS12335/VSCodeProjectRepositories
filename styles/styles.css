@@ -1,0 +1,66 @@
+body
+{
+    background-color: #FFE6F7;
+}
+h1
+{
+    text-align: center;
+    color: darkslategrey;
+}
+hr
+{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    height: 0px;
+}
+.picture
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-style: none;
+}
+.picture:hover
+{
+    border-radius: 100%;
+    background-color: pink;
+}
+
+.Name
+{
+    border-radius: 30px;
+    padding-left: 10px;
+    border-width: 0px;
+    border-style: solid;
+    color: grey;
+    margin-left: 55px;
+}
+#PhoneNumber
+{
+    border-radius: 30px;
+    padding-left: 10px;
+    border-width: 0px;
+    border-style: solid;
+    color: grey;
+}
+#Description 
+{
+    border-radius: 10px 30px;
+    padding-left: 10px;
+    padding-top: 5px;
+    border-width: 0px;
+    border-style: solid;
+    color: grey;
+}
+
+#contact_me
+{
+    font-size: 30px ;
+}
+
+#heart
+{
+    color: red;
+}
